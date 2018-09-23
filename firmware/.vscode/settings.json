@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "C_Cpp.default.compilerPath": "/home/jamis/.particle/toolchains/gcc-arm/5.3.1/bin/arm-none-eabi-gcc",
+    "C_Cpp.default.browse.path": [
+        "${workspaceFolder}",
+        "/home/jamis/.particle/toolchains/deviceOS/0.7.0/firmware-0.7.0"
+    ]
+}
